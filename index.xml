@@ -6,10 +6,20 @@
     <description>Recent content on Jammy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 29 May 2018 23:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 22:01:00 +0100</lastBuildDate>
     
 	<atom:link href="https://jammy.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FreeBSD on XPS 13: Part 2</title>
+      <link>https://jammy.co/posts/freebsd-on-xps-13-part-2/</link>
+      <pubDate>Wed, 30 May 2018 22:01:00 +0100</pubDate>
+      
+      <guid>https://jammy.co/posts/freebsd-on-xps-13-part-2/</guid>
+      <description>In Part 1, I installed FreeBSD on my Dell XPS 13, configured wireless networking, and created a new boot environment. In this part, I&amp;rsquo;ll install some of the software that I need and start on the configuration of the system. For now, I&amp;rsquo;m going to stay in the command line interface (CLI), and I&amp;rsquo;ll cover the X server in the next part.
+Display Resolution When I bought this laptop, I opted for a variant with a QHD+ screen.</description>
+    </item>
     
     <item>
       <title>FreeBSD on XPS 13: Part 1</title>
